@@ -46,3 +46,5 @@ To do so, follow these steps:
 4. Change the Startup type to **Automatic (Delayed Start)**.
 5. Select **Apply**, and then select **Start**.
 6. Select **OK**, and then close the Services console.
+
+***After researching the solution of re-enabling and starting the Windows Search service does not re-enable the Start Menu Search function. Microsoft has been informed.***
